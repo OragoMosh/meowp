@@ -1,0 +1,10 @@
+{
+  "name": "Meowp",
+  "description": "A fanmade sequel to diep.io",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  }
+}
